@@ -1,3 +1,5 @@
+If search does not work, go [here](http://cors-anywhere.herokuapp.com/corsdemo) and click 'Request temporary access to the demo server.'
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
